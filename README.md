@@ -2,11 +2,6 @@ Cat Gov says dogs are welcome too!
 =============================================
 
 
-
-
-GOV.UK elements
-===============
-
 ## What is it?
 
 GOV.UK elements is two things:
